@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/qr-code-component-using-grid-and-bem-zx_APC9hOh)
-- Live Site URL: [](https://manny-munoz.github.io/QR-code-component-Frontend-Mentor-Challenge/)
+- Solution URL: [solution url](https://www.frontendmentor.io/solutions/qr-code-component-using-grid-and-bem-zx_APC9hOh)
+- Live Site URL: [live url](https://manny-munoz.github.io/QR-code-component-Frontend-Mentor-Challenge/)
 
 ## My process
 
