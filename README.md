@@ -19,14 +19,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./screenshot-desktop.png)
 
-#### Mobile Screenshot
-
-![](./screenshot-mobile.png)
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://www.frontendmentor.io/solutions/qr-code-component-using-grid-and-bem-zx_APC9hOh)
+- Live Site URL: [](https://manny-munoz.github.io/QR-code-component-Frontend-Mentor-Challenge/)
 
 ## My process
 
